@@ -1,0 +1,291 @@
+MainWindow QPushButton#startButton
+{
+    image:url(:/new/Elements/image/elements/Menu/new_game_idle.png);
+    border-radius: 1px;
+}
+MainWindow QPushButton#startButton:hover
+{    
+    image: url(:/new/Elements/image/elements/Menu/new_game_hover.png);
+    border-radius: 1px;
+}
+
+MainWindow QPushButton#exitButton
+{
+    image:url(:/new/Elements/image/elements/Menu/exit_idle.png);
+    border-radius: 1px;
+}
+MainWindow QPushButton#exitButton:hover
+{
+    image:url(:/new/Elements/image/elements/Menu/exit_hover.png);
+    border-radius: 1px;
+}
+
+MainWindow QPushButton#preferenceButton
+{
+    image:url(:/new/Elements/image/elements/Menu/options_idle.png);
+    border-radius: 1px;
+}
+MainWindow QPushButton#preferenceButton:hover
+{
+    image:url(:/new/Elements/image/elements/Menu/options_hover.png);
+    border-radius: 1px;
+}
+MainWindow QPushButton#preferenceButton:pressed
+{
+    image: url(:/new/Elements/image/elements/Menu/options_hover.png);
+    border-radius: 1px;
+}
+
+MainWindow QPushButton#loadButton
+{
+    image:url(:/new/Elements/image/elements/Menu/load_idle.png);
+    border-radius: 1px;
+}
+MainWindow QPushButton#loadButton:hover
+{
+    image:url(:/new/Elements/image/elements/Menu/load_hover.png);
+    border-radius: 1px;
+}
+
+
+
+Preference QPushButton#backButton
+{
+    image:url(:/new/Elements/image/elements/Preference/back_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#backButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/back_hover.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#saveButton
+{
+    image:url(:/new/Elements/image/elements/Preference/save_p_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#saveButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/save_p_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#saveButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/save_p_insensitive.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#loadButton
+{
+    image:url(:/new/Elements/image/elements/Preference/load_p_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#loadButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/load_p_hover.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#exitButton
+{
+    image:url(:/new/Elements/image/elements/Preference/exit_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#exitButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/exit_hover.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#preferenceButton
+{
+    image:url(:/new/Elements/image/elements/Preference/options_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#homeButton
+{
+    image:url(:/new/Elements/image/elements/Preference/home_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#homeButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/home_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#homeButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/home_insensitive.png);
+    border-radius: 1px;
+}
+
+Preference QFrame
+{
+    border-radius: 10px;
+    background-color:rgb(78, 167, 240, 100);
+}
+
+Preference QLabel
+{
+    font-style: oblique;
+    font-variant:small-caps;
+    font-size:18px;
+    font-weight:bold;
+    font-family:fantasy;
+    background-color:none;
+    color:rgb(151, 238, 233, 170);
+}
+
+Preference QPushButton#windowButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_window_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#windowButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_window_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#windowButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_window_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#fullscreenButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_fullscreen_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#fullscreenButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_fullscreen_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#fullscreenButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_fullscreen_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#allButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_all_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#allButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_all_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#allButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_all_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#notButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_nothing_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#notButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_nothing_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#notButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_nothing_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#readMessageButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_read_mesage_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#readMessageButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_read_mesage_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#readMessageButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_read_mesage_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#allMessageButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_all_mesage_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#allMessageButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_all_mesage_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#allMessageButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_all_mesage_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#beginSkipButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_begin_skip_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#beginSkipButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_begin_skip_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#beginSkipButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_begin_skip_insensitive.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#stopSkipButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_next_skip_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#stopSkipButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_next_skip_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#stopSkipButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_next_skip_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QPushButton#continueSkipButton
+{
+    image:url(:/new/Elements/image/elements/Preference/b_stop_skip_idle.png);
+    border-radius: 1px;
+}
+Preference QPushButton#continueSkipButton:hover
+{
+    image:url(:/new/Elements/image/elements/Preference/b_stop_skip_hover.png);
+    border-radius: 1px;
+}
+Preference QPushButton#continueSkipButton:disabled
+{
+    image:url(:/new/Elements/image/elements/Preference/b_stop_skip_selected_idle.png);
+    border-radius: 1px;
+}
+
+Preference QScrollBar#horizontalScrollBar
+{
+  background-image: url(:/new/Elements/image/elements/bar_u_full_hover.png);
+  width: 15px;
+  margin: 0px;
+  border: none;
+}
+

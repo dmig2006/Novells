@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/new/File">
+        <file>file/novel800x600.css</file>
+    </qresource>
+    <qresource prefix="/new/BackGround">
+        <file>image/background/bg.jpg</file>
+        <file>image/background/day.jpg</file>
+        <file>image/background/evening.jpg</file>
+        <file>image/background/mm_bg_quit.jpg</file>
+        <file>image/background/morning.jpg</file>
+        <file>image/background/night.jpg</file>
+    </qresource>
+    <qresource prefix="/new/Elements">
+        <file>image/elements/Menu/exit_hover.png</file>
+        <file>image/elements/Menu/exit_idle.png</file>
+        <file>image/elements/Menu/load_hover.png</file>
+        <file>image/elements/Menu/load_idle.png</file>
+        <file>image/elements/Menu/new_game_hover.png</file>
+        <file>image/elements/Menu/new_game_idle.png</file>
+        <file>image/elements/Menu/options_hover.png</file>
+        <file>image/elements/Menu/options_idle.png</file>
+        <file>image/elements/Preference/back_hover.png</file>
+        <file>image/elements/Preference/back_idle.png</file>
+        <file>image/elements/Preference/exit_hover.png</file>
+        <file>image/elements/Preference/exit_idle.png</file>
+        <file>image/elements/Preference/home_hover.png</file>
+        <file>image/elements/Preference/home_idle.png</file>
+        <file>image/elements/Preference/home_insensitive.png</file>
+        <file>image/elements/Preference/load_p_hover.png</file>
+        <file>image/elements/Preference/load_p_idle.png</file>
+        <file>image/elements/Preference/options_selected_idle.png</file>
+        <file>image/elements/Preference/save_p_hover.png</file>
+        <file>image/elements/Preference/save_p_idle.png</file>
+        <file>image/elements/Preference/save_p_insensitive.png</file>
+        <file>image/elements/Preference/b_fullscreen_hover.png</file>
+        <file>image/elements/Preference/b_fullscreen_idle.png</file>
+        <file>image/elements/Preference/b_fullscreen_selected_idle.png</file>
+        <file>image/elements/Preference/b_window_hover.png</file>
+        <file>image/elements/Preference/b_window_idle.png</file>
+        <file>image/elements/Preference/b_window_selected_idle.png</file>
+        <file>image/elements/Preference/b_all_hover.png</file>
+        <file>image/elements/Preference/b_all_idle.png</file>
+        <file>image/elements/Preference/b_all_selected_idle.png</file>
+        <file>image/elements/Preference/b_nothing_hover.png</file>
+        <file>image/elements/Preference/b_nothing_idle.png</file>
+        <file>image/elements/Preference/b_nothing_selected_idle.png</file>
+        <file>image/elements/Preference/b_all_mesage_hover.png</file>
+        <file>image/elements/Preference/b_all_mesage_idle.png</file>
+        <file>image/elements/Preference/b_all_mesage_selected_idle.png</file>
+        <file>image/elements/Preference/b_read_mesage_hover.png</file>
+        <file>image/elements/Preference/b_read_mesage_idle.png</file>
+        <file>image/elements/Preference/b_read_mesage_selected_idle.png</file>
+        <file>image/elements/Preference/b_begin_skip_hover.png</file>
+        <file>image/elements/Preference/b_begin_skip_idle.png</file>
+        <file>image/elements/Preference/b_begin_skip_insensitive.png</file>
+        <file>image/elements/Preference/b_next_skip_hover.png</file>
+        <file>image/elements/Preference/b_next_skip_idle.png</file>
+        <file>image/elements/Preference/b_next_skip_selected_idle.png</file>
+        <file>image/elements/Preference/b_stop_skip_hover.png</file>
+        <file>image/elements/Preference/b_stop_skip_idle.png</file>
+        <file>image/elements/Preference/b_stop_skip_selected_idle.png</file>
+        <file>image/elements/bar_u_full_hover.png</file>
+    </qresource>
+</RCC>

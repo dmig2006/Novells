@@ -1,0 +1,21 @@
+QWidget
+{
+	background-color: #DFE9F5;
+}
+
+QPushButton
+{
+	background-color: #DC1717;
+}
+
+QTextEdit
+{
+	background-color: #FFFFFF;
+	color: #000000;
+	border-radius: 4px;
+}
+
+QLabel
+{
+	color: #000000;
+}
